@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# UC Berkeley Decentralized Finance Spring 2021
-
-For information about future offering of the DeFi course, please join the [berkeley-blockchain@googlegroups.com](https://groups.google.com/forum/#!forum/berkeley-blockchain) mailing list.
+<!-- # Decentralized Finance -->
 
 ## Instructors
 
