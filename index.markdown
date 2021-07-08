@@ -28,7 +28,7 @@ layout: default
 - [Dan Boneh](https://crypto.stanford.edu/~dabo/) (Stanford)
 - [Andrew Miller](http://soc1024.ece.illinois.edu/)
 - Christine Parlour
-- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/")
+- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)
 
 ## Course Description
 
