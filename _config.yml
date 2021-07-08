@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: "PHDBA 297T.4 Decentralized Finance"
+description: Spring 2021
+show_downloads: false
+github:
+  is_project_page: false
+defaults:
+  - scope:
+    path: ""
