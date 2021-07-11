@@ -50,4 +50,3 @@ We will cover a broad spectrum of topics including:
 4. Requirements and technologies for decentralized regulation including auditable privacy, measurement and tracking of systemic risk and its computability
 5. Technologies and challenges for a more responsible data economy including data ownership, data monetization and valuation, controlled use and misuse of data
 6. Security issues and countermeasures in DeFi 
-http://soc1024.ece.illinois.edu/
