@@ -6,29 +6,35 @@ layout: default
 
 ## Instructors
 
-<!-- <table style="table-layout: fixed; font-size: 88%;">
+<table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img style="object-fit:cover" width=132 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
-      <th style="width: 25%;"><img background-size=cover width=132 height=200 src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
+      <th style="width: 25%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th>
+      <th style="width: 25%;"><img style="object-fit:cover" width=150 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
+      <th style="width: 25%;"><img style="object-fit:cover" width=150 height=200 src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
+      <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td>
       <td>Christine Parlour</td>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
     </tr>
     <tr>
-      <td>Lecturer, <a href="http://haas.berkeley.edu/">Haas Business School</a></td>
-      <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Stanford</td>
+      <td>UIUC</td>
+      <td>UC Berkeley</td>
+      <td>UC Berkeley</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
-- [Dan Boneh](https://crypto.stanford.edu/~dabo/) (Stanford)
+<!-- - [Dan Boneh](https://crypto.stanford.edu/~dabo/) (Stanford)
 - [Andrew Miller](http://soc1024.ece.illinois.edu/) (UIUC)
 - Christine Parlour (UC Berkeley)
-- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC Berkeley)
+- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC Berkeley) -->
 
 ## Course Description
 
@@ -44,3 +50,4 @@ We will cover a broad spectrum of topics including:
 4. Requirements and technologies for decentralized regulation including auditable privacy, measurement and tracking of systemic risk and its computability
 5. Technologies and challenges for a more responsible data economy including data ownership, data monetization and valuation, controlled use and misuse of data
 6. Security issues and countermeasures in DeFi 
+http://soc1024.ece.illinois.edu/
