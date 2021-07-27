@@ -56,3 +56,76 @@ Summarizing, we will cover a broad spectrum of topics, including:
 3. To link blockchains with financial information from the real-world, we will provide a deep-dive into oracles. We will discuss decentralized reputation, identities and proof of properties. Because most DeFi is transparently readable, including transaction amounts, fees, dates/times, etc, privacy plays an increasingly important role in DeFi. We will cover various privacy technologies including zero-knowledge proofs and their applications in DeFi. We will also discuss various attempts at how to enforce data ownership, data monetization and valuation as well as controlled use and misuse of data.
 
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
+
+## Syllabus
+
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 40%;"> Topic </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td> 08/26 </td>
+      <td> Introduction and Overview of DeFi </td>
+    </tr>
+    <tr>
+      <td> 09/02 </td>
+      <td> Introduction to Blockchain Technology </td>
+    </tr>
+    <tr>
+      <td> 09/09 </td>
+      <td> Introduction to Smart Contracts </td>
+    </tr>
+    <tr>
+      <td> 09/16 </td>
+      <td> Introduction to Traditional Finance </td>
+    </tr>
+    <tr>
+      <td> 09/23 </td>
+      <td> Stablecoins </td>
+    </tr>
+    <tr>
+      <td> 09/30 </td>
+      <td> DEX </td>
+    </tr>
+    <tr>
+      <td> 10/07 </td>
+      <td> Lending & Borrowing </td>
+    </tr>
+    <tr>
+      <td> 10/14 </td>
+      <td> Synthetic And Derivatives; Portfolio Management; Insurance </td>
+    </tr>
+    <tr>
+      <td> 10/21 </td>
+      <td> Oracles </td>
+    </tr>
+    <tr> 
+      <td> 10/28 </td>
+      <td> Privacy in DeFi; Auditable Privacy; ZKP </td>
+    </tr>
+    <tr>
+      <td> 11/04 </td>
+      <td> Decentralized Identities </td>
+    </tr>
+    <tr>
+      <td> 11/11 </td>
+      <td> No Class (Veterans Day) </td>
+    </tr>
+    <tr>
+      <td> 11/18 </td>
+      <td> Information and Data Markets </td>
+    </tr>
+    <tr>
+      <td> 11/25 </td>
+      <td> No Class (Thanksgiving) </td>
+    </tr>
+    <tr>
+      <td> 12/02 </td>
+      <td> DeFi Security I </td>
+    </tr>
+
+  </tbody>
+</table>
+
