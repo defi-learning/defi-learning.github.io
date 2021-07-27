@@ -95,7 +95,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     </tr>
     <tr>
       <td> 10/14 </td>
-      <td> Synthetic And Derivatives; Portfolio Management; Insurance </td>
+      <td> Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets </td>
     </tr>
     <tr>
       <td> 10/21 </td>
@@ -115,7 +115,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     </tr>
     <tr>
       <td> 11/18 </td>
-      <td> Information and Data Markets </td>
+      <td> DeFi Security I </td>
     </tr>
     <tr>
       <td> 11/25 </td>
@@ -123,7 +123,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     </tr>
     <tr>
       <td> 12/02 </td>
-      <td> DeFi Security I </td>
+      <td> DeFi Security II </td>
     </tr>
 
   </tbody>
