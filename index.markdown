@@ -125,6 +125,10 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> 12/02 </td>
       <td> DeFi Security II </td>
     </tr>
+    <tr>
+      <td> 12/09 (Bonus) </td>
+      <td> Regulations and Security Frameworks </td>
+    </tr>
 
   </tbody>
 </table>
