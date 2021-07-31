@@ -39,6 +39,12 @@ layout: default
 - Christine Parlour (UC Berkeley)
 - [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC Berkeley) -->
 
+## Class Time
+Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
+
+## Enrollment and Participation
+To get more information about the course, please join this googlegroup: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
+
 ## Course Description
 
 The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
@@ -57,13 +63,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
 
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
 
-## Class Time
-Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
-
-## Enrollment and Participation
-To get more information about the course, please join this googlegroup: defi-mooc-f21@googlegroups.com. To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
-
-## Syllabus
+## Syllabus (subject to change)
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
