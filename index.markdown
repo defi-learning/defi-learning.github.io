@@ -34,16 +34,12 @@ layout: default
   </tbody>
 </table>
 
-<!-- - [Dan Boneh](https://crypto.stanford.edu/~dabo/) (Stanford)
-- [Andrew Miller](http://soc1024.ece.illinois.edu/) (UIUC)
-- Christine Parlour (UC Berkeley)
-- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC Berkeley) -->
 
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
 
 ## Enrollment and Participation
-To get more information about the course, please join this googlegroup: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
+To get more information about the course, please join this Google Group: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 
 ## Course Description
 
