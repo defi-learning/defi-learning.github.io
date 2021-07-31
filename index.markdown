@@ -57,6 +57,12 @@ Summarizing, we will cover a broad spectrum of topics, including:
 
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
 
+## Class Time
+Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
+
+## Enrollment and Participation
+To get more information about the course, please join this googlegroup: defi-mooc-f21@googlegroups.com. To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
+
 ## Syllabus
 
 <table style="table-layout: fixed; font-size: 88%;">
