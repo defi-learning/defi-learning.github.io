@@ -129,7 +129,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     </tr>
     <tr>
       <td> 12/09 </td>
-      <td> Regulations and Security Frameworks </td>
+      <td> Regulations and Legal Frameworks </td>
     </tr>
 
   </tbody>
