@@ -36,7 +36,7 @@ layout: default
 
 ## Volunteer Teaching Assistant
 
-<a href="https://kaihuaqin.com/">Kaihua Qin</a>, <a href="https://www.imperial.ac.uk/people/liyi.zhou">Liyi Zhou</a>
+<a href="https://kaihuaqin.com/">Kaihua Qin</a>, <a href="https://www.imperial.ac.uk/people/liyi.zhou">Liyi Zhou</a>, Yongzheng Jia
 
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
