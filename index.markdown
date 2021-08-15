@@ -93,7 +93,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     </tr>
     <tr>
       <td> 10/07 </td>
-      <td> Lending & Borrowing </td>
+      <td> Decentralized Lending </td>
     </tr>
     <tr>
       <td> 10/14 </td>
