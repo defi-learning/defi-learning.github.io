@@ -9,7 +9,7 @@ layout: default
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo2015-1.jpg" alt="Dan Boneh"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://arthurgervais.com/images/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
@@ -34,6 +34,9 @@ layout: default
   </tbody>
 </table>
 
+## Volunteer Teaching Assistant
+
+<a href="https://kaihuaqin.com/">Kaihua Qin</a>, <a href="https://www.imperial.ac.uk/people/liyi.zhou">Liyi Zhou</a>, Yongzheng Jia
 
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
