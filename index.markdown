@@ -110,10 +110,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
     <tr>
       <td> 10/07 </td>
       <td> Decentralized Lending </td>
-<<<<<<< HEAD
       <td> </td>
-=======
->>>>>>> 6658859404be17ba9eb15720bb95fd5eda8e5f94
     </tr>
     <tr>
       <td> 10/14 </td>
