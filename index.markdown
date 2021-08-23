@@ -45,6 +45,13 @@ Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online a
 ## Enrollment and Participation
 To get more information about the course, please join this Google Group: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 
+## Lab Timeline
+
+| Lab 1 out | 10/01 |
+| Lab 1 due | 10/11 |
+| Lab 2 out | 11/02 |
+| Lab 2 due | 11/22 |
+
 ## Course Description
 
 The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
