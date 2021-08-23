@@ -3,7 +3,8 @@ layout: default
 ---
 
 <!-- # Decentralized Finance -->
-
+- [Zoom link](https://berkeley.zoom.us/j/95377826038?pwd=SEJqdEZ0UlNNNis5UGZRZ0RQRS9Ydz09) for the class: [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/95377826038?pwd=SEJqdEZ0UlNNNis5UGZRZ0RQRS9Ydz09)
+- For general course content related questions, please join our [discord](https://discord.gg/UMAFXDkT).
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%;">
