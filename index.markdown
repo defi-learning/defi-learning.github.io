@@ -97,7 +97,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
           <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a> </li>
         </ul>
       </td>
-      <td><a href=https://forms.gle/29iVNtDaiEnRdum36>Quiz 1</a></td>
+      <td><a href="https://forms.gle/29iVNtDaiEnRdum36">Quiz 1</a></td>
     </tr>
     <tr>
       <td> 09/02 </td>
