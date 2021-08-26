@@ -104,6 +104,8 @@ Summarizing, we will cover a broad spectrum of topics, including:
       </ul>
       <li> <a href="https://youtu.be/UariFBhF-_o"> Premiere</a></li>
       <li> <a href="https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL">Recorded videos</a></li>
+      <li> <a href="/assets/slides/lec1.0-dawn-intro.pdf"> Slides-lec0</a> </li>
+      <li> <a href="/assets/slides/lec1-dawn-defi-mooc-intro-defi-f21.pdf">Slides-lec1</a> </li>
       </td>
     </tr>
     <tr>
