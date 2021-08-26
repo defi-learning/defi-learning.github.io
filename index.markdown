@@ -85,6 +85,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <th style="width: 40%;"> Topic </th>
       <th style="width: 20%;"> Recommended reading </th>
       <th style="width: 5%;">Quizzes</th>
+      <th style="width: 20%;">Links</th>
   </thead>
   <tbody>
     <tr>
@@ -98,11 +99,18 @@ Summarizing, we will cover a broad spectrum of topics, including:
         </ul>
       </td>
       <td><a href="https://forms.gle/29iVNtDaiEnRdum36">Quiz 1</a></td>
+      <td>
+      <ul style="margin-bottom: 0;">
+      </ul>
+      <li> <a href="https://youtu.be/UariFBhF-_o"> Premiere</a></li>
+      <li> <a href="https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL">Recorded videos</a></li>
+      </td>
     </tr>
     <tr>
       <td> 09/02 </td>
       <td> Introduction to Blockchain Technology </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -110,11 +118,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Introduction to Smart Contracts </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 09/16 </td>
       <td> Introduction to Traditional Finance </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -122,11 +132,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Stablecoins </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 09/30 </td>
       <td> DEX </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -134,11 +146,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Decentralized Lending </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 10/14 </td>
       <td> Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -146,11 +160,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Oracles </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr> 
       <td> 10/28 </td>
       <td> Privacy in DeFi; Auditable Privacy; ZKP </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -158,11 +174,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Decentralized Identities </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 11/11 </td>
       <td> No Class (Veterans Day) </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -170,11 +188,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> DeFi Security I </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 11/25 </td>
       <td> No Class (Thanksgiving) </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -182,11 +202,13 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> DeFi Security II </td>
       <td> </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td> 12/09 </td>
       <td> Regulations and Legal Frameworks </td>
       <td> </td>
+      <td></td>
       <td></td>
     </tr>
 
