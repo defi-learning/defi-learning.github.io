@@ -45,7 +45,12 @@ Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online a
 ## Enrollment and Participation
 To get more information about the course, please join this Google Group: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 
-## Lab Timeline
+## Course Work
+- Weekly quizzes
+- Two lab exercises
+- Class project (optional)
+
+### Lab Timeline
 
 | Lab 1 out | 10/01 |
 | Lab 1 due | 10/11 |
@@ -161,7 +166,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> </td>
     </tr>
     <tr>
-      <td> 12/09 (Bonus) </td>
+      <td> 12/09 </td>
       <td> Regulations and Legal Frameworks </td>
       <td> </td>
     </tr>
