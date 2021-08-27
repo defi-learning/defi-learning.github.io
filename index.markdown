@@ -107,7 +107,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
         {% if row.slides %}
         <ul style="margin-bottom: 0;">
           {% for s in row.slides %}
-          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          <li> <a href="/assets/slides/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
@@ -116,7 +116,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
         {% if row.reading %}
         <ul style="margin-bottom: 0;">
           {% for r in row.reading %}
-          <li> <a href="/assets/material/{{r.file}}"> {{ r.name }} </a> </li>
+          <li> <a href="/assets/reading/{{r.file}}"> {{ r.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
