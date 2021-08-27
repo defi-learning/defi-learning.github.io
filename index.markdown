@@ -78,141 +78,51 @@ Summarizing, we will cover a broad spectrum of topics, including:
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
 
 ## Syllabus (subject to change)
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 5%;">Date</th>
-      <th style="width: 40%;"> Topic </th>
-      <th style="width: 20%;"> Recommended reading </th>
-      <th style="width: 5%;">Quizzes</th>
-      <th style="width: 20%;">Links</th>
+      <th style="width: 10%;">Date</th>
+      <th style="width: 10%;"> Quiz </th>
+      <th style="width: 50%;"> Topic </th>
+      <th style="width: 30%;"> Recommended reading </th>
   </thead>
   <tbody>
+    {% for row in site.data.syllabus %}
     <tr>
-      <td> 08/26 </td>
-      <td> Introduction and Overview of DeFi </td>
+      <td> {{ row.date }} </td>
       <td> 
+        {% if row.quiz %} 
+          <a href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
+        {% else %}
+          TBD
+        {% endif %}
+      </td>
+      <td> {{ row.topic }} 
+        <br>
+        {% if row.youtube_premiere %}
+          [<a href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+        {% endif %}
+        {% if row.youtube_playlist %}
+          [<a href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+        {% endif %}
+        {% if row.slides %}
         <ul style="margin-bottom: 0;">
-          <li> <a href="/assets/reading/arthur-cefi-vs-defi-2106.08157.pdf"> CeFi vs. DeFi </a> </li>
-          <li> <a href="/assets/reading/defi-sok-ariah-2101.08778.pdf"> DeFi SoK </a> </li>
-          <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a> </li>
+          {% for s in row.slides %}
+          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          {% endfor %}
         </ul>
+        {% endif %}
       </td>
-      <td><a href="https://forms.gle/29iVNtDaiEnRdum36">Quiz 1</a></td>
-      <td>
-      <ul style="margin-bottom: 0;">
-      </ul>
-      <li> <a href="https://youtu.be/UariFBhF-_o"> Premiere</a></li>
-      <li> <a href="https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL">Recorded videos</a></li>
-      <li> <a href="/assets/slides/lec1.0-dawn-intro.pdf"> Slides-lec0</a> </li>
-      <li> <a href="/assets/slides/lec1-dawn-defi-mooc-intro-defi-f21.pdf">Slides-lec1</a> </li>
+      <td> 
+        {% if row.reading %}
+        <ul style="margin-bottom: 0;">
+          {% for r in row.reading %}
+          <li> <a href="/assets/material/{{r.file}}"> {{ r.name }} </a> </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </td>
     </tr>
-    <tr>
-      <td> 09/02 </td>
-      <td> Introduction to Blockchain Technology </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 09/09 </td>
-      <td> Introduction to Smart Contracts </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 09/16 </td>
-      <td> Introduction to Traditional Finance </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 09/23 </td>
-      <td> Stablecoins </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 09/30 </td>
-      <td> DEX </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 10/07 </td>
-      <td> Decentralized Lending </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 10/14 </td>
-      <td> Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 10/21 </td>
-      <td> Oracles </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr> 
-      <td> 10/28 </td>
-      <td> Privacy in DeFi; Auditable Privacy; ZKP </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 11/04 </td>
-      <td> Decentralized Identities </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 11/11 </td>
-      <td> No Class (Veterans Day) </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 11/18 </td>
-      <td> DeFi Security I </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 11/25 </td>
-      <td> No Class (Thanksgiving) </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 12/02 </td>
-      <td> DeFi Security II </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> 12/09 </td>
-      <td> Regulations and Legal Frameworks </td>
-      <td> </td>
-      <td></td>
-      <td></td>
-    </tr>
-
+    {% endfor %}
   </tbody>
 </table>
+
