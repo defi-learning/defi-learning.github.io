@@ -51,7 +51,6 @@ To get more information about the course, please join this Google Group: [defi-m
 ## Course Work
 - Weekly quizzes
 - Two lab exercises
-- Class project (optional)
 
 ### Lab Timeline
 
