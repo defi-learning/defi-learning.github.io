@@ -17,6 +17,11 @@
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
 - date: 09/02
   topic: Introduction to Blockchain Technology
+  reading:
+    - name: Bitcoin Whitepaper
+      file: 21260-bitcoin-a-peer-to-peer-electronic-cash-system.pdf
+    - name: Blockchain SoK
+      file: bonneau2015.pdf
 - date: 09/09
   topic: Introduction to Smart Contracts
 - date: 09/16
@@ -45,3 +50,4 @@
   topic: DeFi Security II
 - date: 12/09
   topic: Regulations and Legal Frameworks
+
