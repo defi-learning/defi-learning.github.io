@@ -52,6 +52,10 @@ To get more information about the course, please join this Google Group: [defi-m
 - Weekly quizzes
 - Two lab exercises
 
+### Quiz
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+
 ### Lab Timeline
 
 | Lab 1 out | 10/01 |
@@ -98,7 +102,13 @@ To get more information about the course, please join this Google Group: [defi-m
         {% if row.reading %}
         <ul style="margin-bottom: 0;">
           {% for r in row.reading %}
-          <li> <a href="/assets/reading/{{r.file}}"> {{ r.name }} </a> </li>
+            {% if r.file %}
+              {% assign reading_link = '/assets/reading/' | append: r.file %}
+            {% endif %}
+            {% if r.link %}
+              {% assign reading_link = r.link %}
+            {% endif %}
+          <li> <a href="{{reading_link}}"> {{ r.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}

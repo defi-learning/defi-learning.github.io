@@ -20,8 +20,14 @@
   reading:
     - name: Bitcoin Whitepaper
       file: 21260-bitcoin-a-peer-to-peer-electronic-cash-system.pdf
-    - name: Blockchain SoK
-      file: bonneau2015.pdf
+    - name: Lightning Network
+      file: lightning-network-paper.pdf
+    - name: Multi-Path Routing
+      file: 1910.01834.pdf
+    - name: Rollup
+      link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+    - name: Bridges
+      link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
 - date: 09/09
   topic: Introduction to Smart Contracts
 - date: 09/16
