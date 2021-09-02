@@ -1,11 +1,13 @@
 - date: 08/26
   topic: Introduction and Overview of DeFi
-  youtube_premiere: https://youtu.be/UariFBhF-_o
+  youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
   quiz:
     name: Quiz 1
     link: https://forms.gle/29iVNtDaiEnRdum36
   slides: 
+    - name: Berkeley DeFi course logistics
+      file: lec1.2-berkeley-logistics-dawn.pdf
     - name: Introduction and Overview of DeFi
       file: lec1-dawn-defi-mooc-intro-defi-f21.pdf
   reading:
@@ -17,17 +19,24 @@
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
 - date: 09/02
   topic: Introduction to Blockchain Technology
+  youtube_premiere: https://www.youtube.com/watch?v=FmKbGHu7oAM 
+  quiz:
+    name: Quiz 2
+    link: https://forms.gle/TH1NcRtvALydNiUB9
+  slides:
+  - name: Introduction to Blockchain Technology
+    file: lec2-dan-tech-intro.pdf
   reading:
-    - name: Bitcoin Whitepaper
-      file: 21260-bitcoin-a-peer-to-peer-electronic-cash-system.pdf
-    - name: Lightning Network
-      file: lightning-network-paper.pdf
-    - name: Multi-Path Routing
-      file: 1910.01834.pdf
-    - name: Rollup
-      link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
-    - name: Bridges
-      link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Lightning Network
+    file: lightning-network-paper.pdf
+  - name: Multi-Path Routing
+    file: 1910.01834.pdf
+  - name: Rollup
+    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+  - name: Bridges
+    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Bitcoin White Paper
+    file: bitcoin.pdf 
 - date: 09/09
   topic: Introduction to Smart Contracts
 - date: 09/16
@@ -56,4 +65,3 @@
   topic: DeFi Security II
 - date: 12/09
   topic: Regulations and Legal Frameworks
-

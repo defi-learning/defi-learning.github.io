@@ -93,7 +93,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
         {% if row.slides %}
         <ul style="margin-bottom: 0;">
           {% for s in row.slides %}
-          <li> <a href="/assets/slides/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
@@ -103,7 +103,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
         <ul style="margin-bottom: 0;">
           {% for r in row.reading %}
             {% if r.file %}
-              {% assign reading_link = '/assets/reading/' | append: r.file %}
+              {% assign reading_link = '/assets/material/' | append: r.file %}
             {% endif %}
             {% if r.link %}
               {% assign reading_link = r.link %}
