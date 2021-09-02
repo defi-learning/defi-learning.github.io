@@ -64,59 +64,23 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 | Lab 2 due | 11/22 |
 
 ## Syllabus (subject to change)
-<table style="table-layout: fixed; font-size: 88%;">
-  <thead>
-      <th style="width: 10%;">Date</th>
-      <th style="width: 10%;"> Quiz </th>
-      <th style="width: 50%;"> Topic </th>
-      <th style="width: 30%;"> Recommended reading </th>
-  </thead>
-  <tbody>
-    {% for row in site.data.syllabus %}
-    <tr>
-      <td> {{ row.date }} </td>
-      <td> 
-        {% if row.quiz %} 
-          <a href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
-        {% else %}
-          TBD
-        {% endif %}
-      </td>
-      <td> {{ row.topic }} 
-        <br>
-        {% if row.youtube_premiere %}
-          [<a href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
-        {% endif %}
-        {% if row.youtube_playlist %}
-          [<a href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
-        {% endif %}
-        {% if row.slides %}
-        <ul style="margin-bottom: 0;">
-          {% for s in row.slides %}
-          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </td>
-      <td> 
-        {% if row.reading %}
-        <ul style="margin-bottom: 0;">
-          {% for r in row.reading %}
-            {% if r.file %}
-              {% assign reading_link = '/assets/material/' | append: r.file %}
-            {% endif %}
-            {% if r.link %}
-              {% assign reading_link = r.link %}
-            {% endif %}
-          <li> <a href="{{reading_link}}"> {{ r.name }} </a> </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+
+<iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('syllabus'));
+  };
+</script>
 
 ## Course Description
 
