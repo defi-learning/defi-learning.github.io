@@ -65,7 +65,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="900" frameborder=0> </iframe>
+<iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="1000" frameborder=0> </iframe>
 
 ## Course Description
 
