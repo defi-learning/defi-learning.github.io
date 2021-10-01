@@ -51,6 +51,7 @@ To get more information about the course, please join this Google Group: [defi-m
 ## Course Work
 - Weekly quizzes
 - Two lab exercises
+- (Optional) Group project
 
 ### Quiz
 
@@ -62,6 +63,10 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 | Lab 1 due | 10/11 |
 | Lab 2 out | 11/02 |
 | Lab 2 due | 11/22 |
+
+### Group Project (Optional)
+
+(Non-Berkeley students only) Please fill out this Google form once your group has been finalised: https://forms.gle/8WbRgH3HwoLWGb6B7
 
 ## Syllabus (subject to change)
 
