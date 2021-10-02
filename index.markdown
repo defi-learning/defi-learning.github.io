@@ -59,8 +59,8 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 ### Lab Timeline
 
-| Lab 1 out | 10/01 |
-| Lab 1 due | 10/11 |
+| Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
+| Lab 1 due | 10/12 |
 | Lab 2 out | 11/02 |
 | Lab 2 due | 11/22 |
 
