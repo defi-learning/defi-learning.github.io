@@ -72,7 +72,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 <iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="2700" frameborder=0> </iframe>
 
-## Fireside chat series: the future of DeFi
+## Fireside chat series: the Future of DeFi
 
 <iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="240" frameborder=0> </iframe>
 
