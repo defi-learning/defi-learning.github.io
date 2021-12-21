@@ -72,6 +72,10 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 <iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="1730" frameborder=0> </iframe>
 
+## Fireside chat series: future of DeFi
+
+<iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="240" frameborder=0> </iframe>
+
 ## MOOC NFT (subject to change)
 
 We will distribute NFTs for completion of the course. Below are the rules for different tiers:
