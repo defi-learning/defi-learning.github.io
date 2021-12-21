@@ -72,6 +72,25 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 <iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="1730" frameborder=0> </iframe>
 
+## MOOC NFT (subject to change)
+
+We will distribute NFTs for completion of the course. Below are the rules for different tiers:
+
+**Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
+
+**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
+
+**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
+* 5 points for Lab 1
+* 15 points for Lab 2
+* 5 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
+    * Summarizing information from certain lectures
+    * A postmortem on the learning experience
+    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+Please link to the course website (defi-learning.org) in your article and submit the article using this link: (https://forms.gle/vPBjLAkYsByiu7ye7)
+
+**Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST. 
+
 ## Course Description
 
 The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
