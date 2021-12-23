@@ -48,7 +48,7 @@ Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online a
 ## Enrollment and Participation
 To get more information about the course, please join this Google Group: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 
-## MOOC NFT (subject to change)
+## DeFi MOOC NFT (subject to change)
 
 We will distribute NFTs for completion of the course. Below are the rules for different tiers:
 
