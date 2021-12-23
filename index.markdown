@@ -59,11 +59,19 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 **Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
 * 5 points for Lab 1
 * 15 points for Lab 2
-* 5 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
+* 8 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
     * Summarizing information from certain lectures
     * A postmortem on the learning experience
     * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+
+The article's marking criteria can be found below:
+* Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
+* Importance (2 marks): Content conveys an important aspect of DeFi to the audience
+* Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
+* References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
+
 Please link to the course website (defi-learning.org) in your article and submit the article using this link: (https://forms.gle/vPBjLAkYsByiu7ye7)
+
 
 **Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST. 
 
