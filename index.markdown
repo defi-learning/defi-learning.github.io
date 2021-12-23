@@ -48,6 +48,33 @@ Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online a
 ## Enrollment and Participation
 To get more information about the course, please join this Google Group: [defi-mooc-f21@googlegroups.com](https://groups.google.com/g/defi-mooc-f21). To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 
+## MOOC NFT (subject to change)
+
+We will distribute NFTs for completion of the course. Below are the rules for different tiers:
+
+**Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
+
+**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
+
+**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
+* 5 points for Lab 1
+* 15 points for Lab 2
+* 5 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
+    * Summarizing information from certain lectures
+    * A postmortem on the learning experience
+    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+Please link to the course website (defi-learning.org) in your article and submit the article using this link: (https://forms.gle/vPBjLAkYsByiu7ye7)
+
+**Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST. 
+
+## Fireside chat series: the Future of DeFi
+
+<iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="240" frameborder=0> </iframe>
+
+## Syllabus (subject to change)
+
+<iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="2700" frameborder=0> </iframe>
+
 ## Course Work
 - Weekly quizzes
 - Two lab exercises
@@ -67,33 +94,6 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 ### Group Project (Optional)
 
 (Non-Berkeley students only) Please fill out this Google form once your group has been finalised: https://forms.gle/8WbRgH3HwoLWGb6B7
-
-## Syllabus (subject to change)
-
-<iframe id="syllabus" src="https://berkeley-defi.github.io/f21_syllabus" width="100%" height="2700" frameborder=0> </iframe>
-
-## Fireside chat series: the Future of DeFi
-
-<iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="240" frameborder=0> </iframe>
-
-## MOOC NFT (subject to change)
-
-We will distribute NFTs for completion of the course. Below are the rules for different tiers:
-
-**Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
-
-**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
-
-**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
-* 5 points for Lab 1
-* 15 points for Lab 2
-* 5 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
-    * Summarizing information from certain lectures
-    * A postmortem on the learning experience
-    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
-Please link to the course website (defi-learning.org) in your article and submit the article using this link: (https://forms.gle/vPBjLAkYsByiu7ye7)
-
-**Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST. 
 
 ## Course Description
 
