@@ -77,7 +77,7 @@ Please link to the course website (defi-learning.org) in your article and submit
 
 ## Fireside chat series: the Future of DeFi
 
-<iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="1140" frameborder=0> </iframe>
+<iframe id="fireside" src="https://berkeley-defi.github.io/f21_fireside" width="100%" height="1400" frameborder=0> </iframe>
 
 ## Syllabus (subject to change)
 
