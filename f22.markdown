@@ -43,20 +43,18 @@ layout: f22
   </tbody>
 </table>
 
-<!--
 ## Volunteer Teaching Assistant
-<a href="https://kaihuaqin.com/">Kaihua Qin</a>, <a href="https://www.imperial.ac.uk/people/liyi.zhou">Liyi Zhou</a>, Yongzheng Jia
+<a href="https://kaihuaqin.com/">Kaihua Qin</a>, <a href="https://www.imperial.ac.uk/people/liyi.zhou">Liyi Zhou</a>
 
-## Class Time
-Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
--->
+## Meetings
+Lectures: Online, Pre-Recorded (Asynchronous)
 
-<!-- ## Enrollment and Participation -->
+Guest Speaker AMAs: Tuesday, 10:00 AM - 11:59 AM <br>
+Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) or 438 Soda Hall
 
-<!--
-## DeFi MOOC NFT (subject to change)
+## Course Completion NFTs
 
-We will distribute NFTs for completion of the course. Below are the rules for different tiers:
+We will distribute NFTs for completion of the course. Below are the rules for different tiers (subject to change):
 
 **Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
 
@@ -76,11 +74,7 @@ The article's marking criteria can be found below:
 * Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
 * References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
 
-Please link to the course website (defi-learning.org) in your article and submit the article using this link: (https://forms.gle/vPBjLAkYsByiu7ye7)
-
-
 **Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST.
--->
 
 <!--
 ## Fireside chat series: the Future of DeFi
