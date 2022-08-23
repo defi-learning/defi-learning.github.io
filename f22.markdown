@@ -52,36 +52,6 @@ Lectures: Online, Pre-Recorded (Asynchronous)
 Guest Speaker AMAs: Tuesday, 10:00 AM - 11:59 AM <br>
 Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) or 438 Soda Hall
 
-## Course Completion NFTs
-
-We will distribute NFTs for completion of the course. Below are the rules for different tiers (subject to change):
-
-**Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
-
-**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
-
-**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
-* 5 points for Lab 1
-* 15 points for Lab 2
-* 8 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
-    * Summarizing information from certain lectures
-    * A postmortem on the learning experience
-    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
-
-The article's marking criteria can be found below:
-* Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
-* Importance (2 marks): Content conveys an important aspect of DeFi to the audience
-* Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
-* References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
-
-**Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST.
-
-<!--
-## Fireside chat series: the Future of DeFi
-
-<iframe id="fireside" src="https://rdi.berkeley.edu/berkeley-defi/f22_fireside" width="100%" height="1400" frameborder=0> </iframe>
--->
-
 ## Syllabus (subject to change)
 
 <iframe id="syllabus" src="https://rdi.berkeley.edu/berkeley-defi/f22_syllabus" width="100%" height="700" frameborder=0> </iframe>
@@ -114,6 +84,29 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 (Non-Berkeley students only) Please fill out this Google form once your group has been finalised: https://forms.gle/8WbRgH3HwoLWGb6B7
 -->
+
+## Course Completion NFTs
+
+We will distribute NFTs for completion of the course. Below are the rules for different tiers (subject to change):
+
+**Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
+
+**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
+
+**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
+* 5 points for Lab 1
+* 15 points for Lab 2
+* 8 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
+    * Summarizing information from certain lectures
+    * A postmortem on the learning experience
+    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+
+The article's marking criteria can be found below:
+* Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
+* Importance (2 marks): Content conveys an important aspect of DeFi to the audience
+* Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
+* References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
+
 
 ## Course Description
 
