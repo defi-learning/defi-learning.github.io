@@ -97,12 +97,12 @@ We will distribute NFTs for completion of the course. Below are the rules for di
     * (14 marks) Finish the two assignments by Oct 4th 2022 PST and Oct 10th 2022 PST
     * (36 marks) Finish the two two labs with by Nov 1st 2022 PST and Nov 8th 2022 PST
 
-**Ninja Tier**: Students must complete at least 10 quizzes before Dec 12th 2022 PST
-* Complete at least 10 quizzes on time (before the following lecture date as specified on the website); and
+**Ninja Tier**: Students must:
+* Complete at least 10 quizzes on time (before Dec 12th 2022 PST); and
 * Receive a final grade of at least 20 out of 58 marks.
     * (14 marks) Finish the two assignments by Oct 4th 2022 PST and Oct 10th 2022 PST
     * (36 marks) Finish the two two labs with by Nov 1st 2022 PST and Nov 8th 2022 PST
-    * (8 marks) Write an article about relevant topic covered in this course or your experience of the course posted online,
+    * (8 marks) Write an article about relevant topic covered in this course or your experience of the course posted online, and tweet about the article.
         * for example a blog article on:
             * Summarizing information from certain lectures
             * A postmortem on the learning experience
