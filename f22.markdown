@@ -9,6 +9,7 @@ layout: f22
   - Passcode: 267548
 - [Calendar](https://calendar.google.com/calendar/u/0?cid=ZGVmaS5tb29jQGdtYWlsLmNvbQ)
 -->
+- [Zoom link](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09) for the synchronous AMAs (password: 557046): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)
 - To sign up for the course, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
 - For  more information about the course, please also join [defi-mooc-f22@googlegroups.com](https://groups.google.com/g/defi-mooc-f22). And stay tuned!
 - For general course content related questions, please join our [discord](https://discord.gg/3yFqmRjZDA).
