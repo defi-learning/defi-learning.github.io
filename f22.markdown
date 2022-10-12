@@ -55,7 +55,7 @@ Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUW
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="https://rdi.berkeley.edu/berkeley-defi/f22_syllabus" width="100%" height="1400" frameborder=0> </iframe>
+<iframe id="syllabus" src="https://rdi.berkeley.edu/berkeley-defi/f22_syllabus" width="100%" height="2400" frameborder=0> </iframe>
 
 ## Course Work
 - Weekly quizzes
