@@ -66,6 +66,27 @@ Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUW
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
+
+### Lab
+
+Labs 1 and 2 have been released and are available on GitHub here: https://github.com/rdi-berkeley/defi-mooc-lab. If you clone the GitHub repository, please ensure your code remains private. You are expected to complete this lab on an individual basis (not in groups), but can have conceptual discussions with your peers as long as no code is shared. Students in the Haas version of the course are encouraged, but not required, to attempt the labs.
+
+In this exercise, you are expected to implement a smart contract that performs a flash loan and liquidation. For more details, please read through the README.md file in the GitHub repository. Lab 1 is simply a checkpoint on the way to the full contract implementation to ensure that students have their development environment up and running by early next week. The majority of your lab grade will come from your performance in Lab 2.
+
+By November 14th, you should submit a single LiquidationOperator.sol file that successfully performs a Uniswap flash loan ("Lab 1"). Your score out of 5 possible points will be determined like so:
+* 0 points: If your contract fails to compile
+* 2 points: If your contract correctly identifies the Uniswap contract for WETH-USDT pair
+* 4 points: If your contract correctly borrows USDT via a Uniswap flash loan
+* 5 points: If your contract borrows enough USDT to liquidate the Aave loan in Lab 2
+
+Then, by November 21st, complete and submit the full implementation ("Lab 2"). Your submission should be a single LiquidationOperator.sol file, and your score out of 15 possible points will be determined by the actual profit you earn in the test case.
+* 0 points: If your contract fails to compile, fails to liquidate the target account, or fails to pass the assertions.
+* 6 points: If your contract gets a positive number in profit.txt.
+* 12 points: If your contract gets a profit of >= 21 ETH.
+* 13 points: If your contract gets a profit of >= 24 ETH.
+* 14 points: If your contract gets a profit of >= 30 ETH.
+* 15 points: If your contract gets a profit of >= 43 ETH.
+
 ### Assignment Timeline
 
 | Assignment            | Released  | Deadline
@@ -75,8 +96,8 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 | Assignment 1 ([Link](https://docs.google.com/forms/d/e/1FAIpQLSc7UgNu8uKGGoDHkCTqF_gX9Ej0TnMILeVkvRUcShmpj5B8Gw/viewform)) | 10/04     | 10/10
 | Assignment 2 ([Link](https://docs.google.com/forms/d/e/1FAIpQLSetlVx15TKrOk_aP28eFnU4K2wXEjlJZeDj1TdEnmh-GJlbZw/viewform)) | 10/18     | <s>10/24</s> <span style="color:red">11/07</span>
 | Project milestone     | 10/25     | 10/31
-| Lab 1 ([Github](https://github.com/rdi-berkeley/defi-mooc-lab))                | 11/01     | 11/07
-| Lab 2 ([Github](https://github.com/rdi-berkeley/defi-mooc-lab))                | 11/08     | 11/21
+| Lab 1 ([Github](https://github.com/rdi-berkeley/defi-mooc-lab)) ([Submission](https://forms.gle/g8xPiTmP3c7giwG66))               | 11/01     | <s>11/07</s> <span style="color:red">11/14</span>
+| Lab 2 ([Github](https://github.com/rdi-berkeley/defi-mooc-lab)) ([Submission](https://forms.gle/aydY7AX7d3G6WWBEA))               | 11/08     | 11/21
 | Project presentation  | 11/22     | 12/05
 | Project final report  | 12/06     | 12/12
 
