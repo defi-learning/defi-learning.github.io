@@ -36,7 +36,7 @@ layout: f22
     </tr>
     <tr>
       <td>Stanford</td>
-      <td>Imperial College London</td>
+      <td>UCL</td>
       <td>UIUC</td>
       <td>UC Berkeley</td>
       <td>UC Berkeley</td>
